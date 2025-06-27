@@ -8,31 +8,52 @@
         "children": [
           {
             "text": "Shadnagar-Hyderabad",
-            "id": "node_ki5l5mdse"
+            "id": "node_ki5l5mdse",
+            "state": {
+              "opened": true
+            }
           },
           {
             "text": "Shabad-Hyderabad",
-            "id": "node_x65fuu3r9"
+            "id": "node_x65fuu3r9",
+            "state": {
+              "opened": true
+            }
           },
           {
             "text": "Sadashivpet-Hyderabad",
-            "id": "node_9rdsoch6j"
+            "id": "node_9rdsoch6j",
+            "state": {
+              "opened": true
+            }
           },
           {
             "text": "Yadagirigutta-Hyderabad",
-            "id": "node_dbwq31awp"
+            "id": "node_dbwq31awp",
+            "state": {
+              "opened": true
+            }
           },
           {
             "text": "SURYAPET Plots-Hyderabad",
-            "id": "node_yy3nkvwgk"
+            "id": "node_yy3nkvwgk",
+            "state": {
+              "opened": true
+            }
           },
           {
             "text": "Aleru-Hyderabad",
-            "id": "node_gzqvkxcd1"
+            "id": "node_gzqvkxcd1",
+            "state": {
+              "opened": true
+            }
           },
           {
             "text": "Chegunta",
-            "id": "node_1wq665jkv"
+            "id": "node_1wq665jkv",
+            "state": {
+              "opened": true
+            }
           },
           {
             "id": "node_1750958403976",
@@ -40,15 +61,27 @@
             "a_attr": {
               "href": ""
             },
-            "children": []
+            "children": [],
+            "state": {
+              "opened": true
+            }
           }
         ],
-        "id": "node_tn2woqvkz"
+        "id": "node_tn2woqvkz",
+        "state": {
+          "opened": true
+        },
+        "a_attr": {
+          "href": "https://chat.deepseek.com/"
+        }
       }
     ],
     "id": "node_m4klszjlc",
     "a_attr": {
       "href": "https://www.act3.in/"
+    },
+    "state": {
+      "opened": true
     }
   }
 ]

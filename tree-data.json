@@ -46,14 +46,18 @@
             "id": "node_gzqvkxcd1",
             "state": {
               "opened": true
-            }
-          },
-          {
-            "text": "Chegunta",
-            "id": "node_1wq665jkv",
-            "state": {
-              "opened": true
-            }
+            },
+            "children": [
+              {
+                "id": "node_1751005855219",
+                "text": "New Node",
+                "a_attr": {},
+                "children": [],
+                "state": {
+                  "opened": true
+                }
+              }
+            ]
           }
         ],
         "id": "node_tn2woqvkz",

@@ -460,15 +460,11 @@
         "state": {
           "opened": true
         },
-        "a_attr": {
-          "href": "https://chat.deepseek.com/"
-        }
+        "a_attr": {}
       }
     ],
     "id": "node_m4klszjlc",
-    "a_attr": {
-      "href": "https://www.act3.in/"
-    },
+    "a_attr": {},
     "state": {
       "opened": true
     }
